@@ -1,0 +1,44 @@
+title: Rescuerapp
+version: "Versiyon: {}"
+base_url_empty: Servis adresi tanımlı değil! Lütfen ayarlardan ortam verisini seçin.
+
+general:
+  firebase_init_error: Firebase servislerine erişilemiyor!
+  loader_default_text: İşleminiz gerçekleştiriliyor.
+  description: Açıklama
+  method_not_implemented: Tanımsız işlem!
+  service_error_code: "Servis hata kodu: {}"
+  no-data: Veri bulunamadı!
+
+widget:
+  choose: Seçiniz...
+  warning: Uyarı
+  close: Kapat
+  yes: Evet
+  no: Hayır
+  next: İleri
+
+settings:
+  title: Ayarlar
+  common: Genel
+  language: Dil
+  environment:
+    title: Ortam
+    production: Canlı
+    uat: UAT
+    test: Test
+  display:
+    title: Görünüm
+    theme_mode: Tema Modu
+    system: Sistem Varsayılanı
+    light: Aydınlık Mod
+    dark: Karanlık Mod
+
+login:
+  mail: E-Posta Adresi
+  password: Parola
+  login: GİRİŞ YAP
+  reset_password: Şifremi Unuttum?
+  mail_empty: E-Posta adresinizi girin!
+  password_empty: Parolanızı girin!
+  logging: Giriş yapılıyor...

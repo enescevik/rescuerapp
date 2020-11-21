@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>339653262295-ocdtp23s0s82jonf6rtneuip93cvjdkr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.339653262295-ocdtp23s0s82jonf6rtneuip93cvjdkr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAoXDixb_yzgGl4xVcTWnMrCvaJNyZ8Qo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>339653262295</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nscvk.rescuerapp</string>
+	<key>PROJECT_ID</key>
+	<string>rescuerapp-b3f60</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rescuerapp-b3f60.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:339653262295:ios:32ba0cc3ee6e8977d0a992</string>
+	<key>DATABASE_URL</key>
+	<string>https://rescuerapp-b3f60.firebaseio.com</string>
+</dict>
+</plist>

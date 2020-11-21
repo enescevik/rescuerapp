@@ -1,0 +1,44 @@
+title: Rescuerapp
+version: "Version: {}"
+base_url_empty: Environment not set! Please choose environment from configuration screen.
+
+general:
+  firebase_init_error: Firebase services are could not established!
+  loader_default_text: Processing...
+  description: Description
+  method_not_implemented: Method not implemented!
+  service_error_code: "Service error code: {}"
+  no-data: No data found!
+
+widget:
+  choose: Choose...
+  warning: Warning
+  close: Close
+  yes: Yes
+  no: No
+  next: Next
+
+settings:
+  title: Settings
+  common: Common
+  language: Language
+  environment:
+    title: Environment
+    production: Production
+    uat: UAT
+    test: Test
+  display:
+    title: Display
+    theme_mode: Theme Mode
+    system: System
+    light: Light
+    dark: Dark
+
+login:
+  mail: E-Mail
+  password: Password
+  login: LOGIN
+  reset_password: Reset Password?
+  mail_empty: Enter your e-mail!
+  password_empty: Enter your password!
+  logging: Logging...
